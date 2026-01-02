@@ -1,16 +1,95 @@
-<h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A passionate Product Engineer & Creative Designer from India</h3>
+<h1 align="center">Hi 👋, I'm Piyush Kumar Mahato</h1>
+<h3 align="center">Product Engineer • AI/ML Developer • Creative Technologist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dragoyt&label=Profile%20views&color=0e75b6&style=flat" alt="dragoyt" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dragoyt" alt="dragoyt" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/piyushkrmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushkrmahato" height="30" width="40" /></a>
+<p align="center">
+Building scalable products at the intersection of <b>engineering, AI, and design</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/piyushkrmahato">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=dragoyt&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragoyt&show_icons=true&locale=en" alt="dragoyt" /></p>
+---
+
+## 👨‍💻 About Me
+
+- 🎓 **BTech CSE (2022–2026)** | Srinath University  
+- 🤖 **AI/ML Engineer (Beginner → Intermediate)** – building real-world ML systems  
+- 🧠 **Product Engineer** – turning ideas into scalable SaaS & mobile apps  
+- 🎨 **Creative Designer** with **5+ years** of experience in visual & concept design  
+- 🚀 Worked with brands like **Hyundai, BGMI, Reliance, Lenskart, Boat, Pebble**  
+- 🏗️ Currently building **AI-powered platforms**, **IoT systems**, and **SaaS products**
+
+---
+
+## 🔥 What I’m Working On
+
+- 🌱 **AI-powered Tree Identification & Reforestation Platform**
+- 📊 **Automated Essay Scoring (NLP + ML)**
+- 🧪 **Pathology Management SaaS (React + Firebase + Razorpay)**
+- 📱 **React → React Native Product Conversions**
+- 🤖 **IoT + Arduino + ESP32 Automation Projects**
+- 🧠 **End-to-End ML pipelines (training → deployment)**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Engineering & Web
+<p>
+<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,mongodb,firebase,git" />
+</p>
+
+### 🤖 AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn" />
+</p>
+
+### 🔌 IoT & Hardware
+<p>
+<img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+### 🎨 Design & Creative
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+---
+
+## 📌 Highlights
+
+- 🏆 **Fiverr Level One Seller (Art & Design Services)**
+- 🧑‍🏫 Mentored students in **Data Science & R**
+- 🧠 Strong understanding of **ML fundamentals + applied systems**
+- 🎯 Focused on **real-world, production-grade projects**
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dragoyt&show_icons=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragoyt&theme=transparent" />
+</p>
+
+---
+
+## 📫 Let’s Collaborate
+
+- 💼 Open to **internships, freelance, and product collaborations**
+- 🧠 Interested in **AI, SaaS, IoT, and deep-tech products**
+
+👉 **LinkedIn:** https://linkedin.com/in/piyushkrmahato  
+
+---
+
+<p align="center">
+<i>“Build products that solve real problems — beautifully.”</i>
+</p>
